@@ -33,4 +33,3 @@ I enjoy solving problems using **Python, data, and AI**, and I'm currently expan
 ### 📬 Let’s Connect!
 - [LinkedIn](https://www.linkedin.com/in/shadman-shihab-dev)  
 - [GitHub](https://github.com/shadman-shihab-dev)  
-- Portfolio Website: Coming Soon!
