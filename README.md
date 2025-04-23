@@ -33,3 +33,7 @@ I enjoy solving problems using **Python, data, and AI**, and I'm currently expan
 ### 📬 Let’s Connect!
 - [LinkedIn](https://www.linkedin.com/in/shadman-shihab-dev)  
 - [GitHub](https://github.com/shadman-shihab-dev)  
+---
+
+### 📊 GitHub Stats:
+![Shihab's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadman-shihab-dev&show_icons=true&theme=radical)
